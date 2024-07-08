@@ -12,7 +12,7 @@ expensive equipment is impractical.
 
 
 # Rover 
-<img src ="![Rover](https://github.com/Abinesh1608/AI-Powered-Rover/assets/99597805/2c6e69b5-2a21-44c1-a834-cccb20548914)" width = "200" >
+<img src ="(https://github.com/Abinesh1608/AI-Powered-Rover/assets/99597805/2c6e69b5-2a21-44c1-a834-cccb20548914)" width = "200" >
 
 # Object Detection
 ![WhatsApp Image 2024-02-13 at 11 25 21 AM ](https://github.com/Abinesh1608/AI-Powered-Rover/assets/99597805/c27e28f1-1dde-40b0-aaf0-cb358b619fbf)()
