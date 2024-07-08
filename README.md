@@ -9,3 +9,6 @@ development of affordable intelligent surveillance solutions, promoting improved
 monitoring and faster response times even in situations where deploying 
 expensive equipment is impractical.
 
+
+#Rover 
+![Rover](https://github.com/Abinesh1608/AI-Powered-Rover/assets/99597805/2c6e69b5-2a21-44c1-a834-cccb20548914)
